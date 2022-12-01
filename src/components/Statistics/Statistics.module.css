@@ -1,0 +1,22 @@
+
+.title {
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.list {
+    list-style: none;
+    padding: 0px;
+}
+
+.item {
+    margin-bottom: 8px;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.span {
+    margin-left: 10px;
+    font-weight: 600;
+    color: #f58907;
+}
